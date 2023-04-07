@@ -4,7 +4,7 @@ So I did not have to install VS code. As you can see from the image above I have
 
 ![Image](login.png)
 
-The image above demonstrates me remotley connecting. Durin lab I wasn't able to login, but I was able to solve my problem by looking at our class discussion board where someone showed that you just had to add a couple characters to the end of ieng6. Then I just had to type yes, and enter my password of my newly setup cs15l account, and bam, I am remotely connected.
+The image above demonstrates me remotley connecting. Durin lab I wasn't able to login, but I was able to solve my problem by looking at our class discussion board where someone showed that you just had to add "-202" to the end of ieng6. I have no idea why this made it work. Then all I had to do was just answer yes, and enter my password of my newly setup cs15l account, and bam, I am remotely connected.
 
 ![Image](tryingCommands1.png)
 ![Image](tryingCommands2.png)
