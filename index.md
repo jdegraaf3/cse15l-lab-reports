@@ -1,4 +1,4 @@
-# Lab Report 1
+# Lab Report 1!
 ![Image](Screenshot(17).png)
 
 So I did not have to install VS code. As you can see from the image above I have already done a project with it, the one shown was for my last class, LTCS 180. VS code is great, I like it a lot better than eclipse, cough cough CSE 12. It allows for simple navigation and project building.
